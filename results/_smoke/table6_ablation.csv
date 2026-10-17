@@ -1,0 +1,4 @@
+SMOKE/SYNTHETIC: NOT FOR PAPER
+Model,Relation F1,Zone F1,Scene F1
+HCAF Full,[REAL F1],[REAL F1],[REAL F1]
+w/o L2 spatial,[REAL F1],[REAL F1],[REAL F1]
