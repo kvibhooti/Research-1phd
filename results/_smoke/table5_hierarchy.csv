@@ -1,0 +1,4 @@
+SMOKE/SYNTHETIC: NOT FOR PAPER
+Model,Relation F1,Zone F1,Scene F1,Overflow Recall,Dump Recall
+B1 (Geometric Rule),[REAL F1],[REAL F1],[REAL F1],[REAL REC],[REAL REC]
+HCAF (Ours),[REAL F1],[REAL F1],[REAL F1],[REAL REC],[REAL REC]
